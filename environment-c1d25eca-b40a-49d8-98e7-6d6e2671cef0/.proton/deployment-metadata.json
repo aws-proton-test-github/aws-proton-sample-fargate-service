@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "c8b29137-7923-4718-a937-56a0707214c3",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:169144769818:environment/environment-c1d25eca-b40a-49d8-98e7-6d6e2671cef0",
+    "templateArn" : "arn:aws:proton:us-west-2:169144769818:environment-template/template-33389872-0dc9-45e4-8aeb-8883ea2e2df2-2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
